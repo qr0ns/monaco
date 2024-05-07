@@ -1,0 +1,161 @@
+*{
+    margin:0;
+    padding:0;
+}
+.header{
+    background-image: url(background.png);
+    background-repeat: no-repeat;
+    height:100vh;
+    background-size: cover;
+    position: relative;
+}
+.header-line{
+    display:flex;
+}
+.header-buttons{
+    position: absolute;
+    margin-left:40%;
+    margin-top:28px;
+}
+.button-main{
+    margin-right:30px;
+    text-decoration: none;
+    color:#fff;
+    font-family: "IBM Plex Mono", monospace;
+    font-size:13px; 
+    font-weight:400px;
+}
+.logo{
+    margin-top:28px;
+    margin-left :28px;
+}
+.buy-now{
+    position:absolute;right:10px;top:25px;
+}
+.button-buy{
+    text-decoration: none;
+    color:#fff;
+    padding:5px 15px;
+    background-color: #9400FF;
+    font-family: "IBM Plex Mono", monospace;
+    font-size:13px; 
+    font-weight:400px;
+    border-radius: 20px;
+}
+.header-text{
+    color:#fff;
+    margin-left:100px;
+    margin-top: 150px;
+}
+.title{
+    font-family: "Manrope", sans-serif;
+    font-size:16px;
+    font-weight:400px;
+}
+.text{
+    font-size:48px;
+    font-family: "Manrope", sans-serif;
+    font-weight:400px;
+}
+.buy-15{
+    font-family: "IBM Plex Mono", monospace;
+    font-size:13px; 
+    font-weight:400px;
+    padding:15px 40px;
+    background-color: #9400FF;
+    border-radius: 20px;
+    text-decoration: none;
+    color:#fff;
+    font-family: "IBM Plex Mono", monospace;    
+}
+.text-button{
+    margin-top:80px;
+}
+.themes{
+    display: flex;
+    position: relative;
+    color:#fff;
+    font-weight:400px;
+    margin-left:100px;
+    margin-top:150px;
+}
+.theme-1{
+    margin-right:100px;
+}
+.title-1{
+    font-size:25px;
+    margin-bottom:10px;
+}
+.text-1{
+    font-family: "Manrope", sans-serif;
+    font-weight:400px;
+}
+.theme-2{
+    margin-right:100px;
+}
+.title-2{
+    font-size:25px;
+    margin-bottom:10px;
+}
+.text-2{
+    font-family: "Manrope", sans-serif;
+    font-weight:400px;
+}
+.theme-3{
+    margin-right:100px;
+}
+.title-3{
+    font-size:25px;
+    margin-bottom:10px;
+}
+.text-3{
+    font-family: "Manrope", sans-serif;
+    font-weight:400px;
+}
+.unique-icons{
+    background-image: url(backBlack.png);
+    color:#fff;
+    position: relative;
+}
+.phone{
+    text-align: right;
+    margin-right:150px;
+}
+.icon-phone{
+    display: inline-block;
+}
+.phone-text{
+    position: absolute;
+    margin-left: 140px;
+    margin-top:300px;
+}
+.icon-title{
+    font-size:48px;
+    font-weight:400px;
+    font-family: "Manrope", sans-serif;
+}
+.icon-text{
+    font-size:16px;
+    font-weight:400px;
+    font-family: "Manrope", sans-serif;
+}
+.icon-button{
+    margin-top:60px;
+}
+.phone-button{
+    text-decoration: none;
+    color:#fff;
+    padding:15px 40px;
+    background-color:#9400FF;
+    border-radius: 20px;
+}
+.icons-3D{
+    background-color: #000;
+    color:#fff;
+    text-align: center;
+}
+.title-3D{
+    font-size:29px;
+    font-weight:400px;
+    font-family: "Manrope", sans-serif;
+}
