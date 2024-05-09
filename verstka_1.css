@@ -159,3 +159,129 @@
     font-weight:400px;
     font-family: "Manrope", sans-serif;
 }
+.big-ready{
+    background-color:#000;
+}
+.big-icons{
+    text-align: center;
+}
+.big-title{
+    text-align: center;
+    color:#fff;
+    font-family: "Manrope", sans-serif;
+    font-size:29px;
+}
+.pros{
+    color:#fff;
+    margin-left:20%;
+    
+}
+.titles{
+    display:flex;
+}
+.pros-title{
+    margin-right:150px;
+    color:#999999;
+}
+.pros-text-1{
+    width:20px;
+    margin-top:50px;
+}
+.request{
+    background-color:#000;
+    color:#fff;
+    display: flex;
+}
+.request-dog{
+    margin-left:250px;
+}
+.request-container{
+    position: relative;
+    font-family: "Manrope", sans-serif;
+    font-weight:400px;
+    margin-left:150px;
+}
+.request-title{
+    font-size:29px;
+    margin-bottom:50px;
+}
+.request-text{
+    color:#EBEBEB;
+    font-size:16px;
+}
+.request-button{
+    margin-top:50px;
+}
+.in-touch{
+    text-decoration: none;
+    color:#fff;
+    padding:15px 40px;
+    background-color:#9400FF;
+    border-radius: 120px;
+    transition: background-color 0.3s;
+}
+.in-touch:hover{
+    background-color:#6802b1;
+}
+.pack{
+    background-image: url(back-apps.png);
+    background-repeat: no-repeat;
+    height:60vh;
+    background-size: cover;
+    position: relative;
+    font-family: "Manrope", sans-serif;
+    font-weight:400px;
+}
+.pack-container{
+    text-align: center;
+    color:#fff;
+    position:absolute;
+    margin-left:600px;
+    margin-top:200px;
+}
+.pack-title{
+    font-size:51px;
+    margin-bottom:40px;
+}
+.pack-text{
+    font-size:18px;
+}
+.pack-button{
+    margin-top:50px;
+}
+.pack-buy{
+    color:#fff;
+    text-decoration: none;
+    padding:20px 40px;
+    background-color: #9400FF;
+    transition: backfround-color 0.3s;
+    border-radius: 60px;
+}
+.pack-buy:hover{
+    background-color:#6802b1;
+}
+.footer{
+    background-color:#000;
+    height:30vh;
+    position: relative;
+}
+.footer-container{
+    text-align: center;
+    font-family: "Manrope", sans-serif;
+    font-weight:400px;
+    color:#fff;
+}
+.logo-footer{
+    margin-top:100px;
+}
+.footer-text{
+    margin-top:30px;
+    font-size:16px;
+}
+.tg{
+    color:#9400FF;
+}
+.footer-data{
+    margin-top:50px;
+    font-size:11px;
+}
