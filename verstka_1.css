@@ -27,7 +27,7 @@
 }
 .logo{
     margin-top:28px;
-    margin-left :28px;
+    margin-left:28px;
 }
 .buy-now{
     position:absolute;right:10px;top:25px;
@@ -41,6 +41,10 @@
     font-size:13px; 
     font-weight:400px;
     border-radius: 20px;
+    transition: background-color 0.3s;
+}
+.button-buy{
+    background-color:#6802b1;
 }
 .header-text{
     color:#fff;
@@ -67,8 +71,13 @@
     text-decoration: none;
     color:#fff;
     font-family: "IBM Plex Mono", monospace;    
+    transition: background-color 0.3s;
 }
-.text-button{
+.buy-15{
+    background-color:#6802b1;
+}
+.text-but
+ton{
     margin-top:80px;
 }
 .themes{
@@ -148,6 +157,10 @@
     padding:15px 40px;
     background-color:#9400FF;
     border-radius: 20px;
+    transition: background-color 0.3s;
+}
+.phone-button:hover{
+    background-color:#6802b1;
 }
 .icons-3D{
     background-color: #000;
