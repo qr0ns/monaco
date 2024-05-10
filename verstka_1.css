@@ -43,7 +43,7 @@
     border-radius: 20px;
     transition: background-color 0.3s;
 }
-.button-buy{
+.button-buy:hover{
     background-color:#6802b1;
 }
 .header-text{
@@ -73,7 +73,7 @@
     font-family: "IBM Plex Mono", monospace;    
     transition: background-color 0.3s;
 }
-.buy-15{
+.buy-15:hover{
     background-color:#6802b1;
 }
 .text-but
